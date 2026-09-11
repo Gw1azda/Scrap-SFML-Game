@@ -122,3 +122,13 @@ Possible future additions include:
 Scrap was developed as an academic C++ and SFML project.
 
 It demonstrates how a simple existing game structure can be expanded and redesigned into a different gameplay concept while maintaining a beginner-friendly event-driven game loop.
+
+## Requirements
+
+To build the project, you will need:
+
+- Visual Studio 2022
+- C++
+- SFML 2.6.1
+
+The Visual Studio project may require the SFML include and library directories to be updated to match the location of SFML on your system.
